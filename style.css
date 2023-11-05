@@ -1,5 +1,5 @@
 .menu {
-    width: 80%;
+  width: 80%;
   background-color: black;
   margin-left: auto;
   margin-right: auto;
@@ -20,4 +20,12 @@ body {
   background-image: url(wallpaperflare.com_wallpaper.jpg);
   font-family: sans-serif;
   padding: 20px;
+}
+
+p {
+    color:white;
+}
+
+h1, h2 {
+    color:green;
 }
