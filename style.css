@@ -7,7 +7,7 @@
   max-width: 600px;
 }
 
-h1, h2, h3, p, .piefoto {
+h1, h2, h3, h4, p, .piefoto {
   text-align: center;
 }
 
@@ -39,4 +39,8 @@ hr {
 
 h3 {
   color: red;
+}
+
+h4 {
+  color: yellow;
 }
