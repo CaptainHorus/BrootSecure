@@ -1,8 +1,8 @@
-h1, h2, p, fotito {
+h1, h2, p, img, fotito {
   text-align: center;
 }
 
-fotito {
+img, fotito {
 width: 500px;
 heigth:500px;
 }
