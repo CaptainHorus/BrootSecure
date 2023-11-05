@@ -36,3 +36,9 @@ hr {
   background-color: red;
   border-color: red;
 }
+
+.fotito {
+  width: 60%;
+  margin: auto;
+  display: block;
+}
