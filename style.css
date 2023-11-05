@@ -7,15 +7,15 @@
   max-width: 600px;
 }
 
-h1, h2, p, .piefoto {
+h1, h2, p, .piefoto, h3 {
   text-align: center;
 }
 
 img {
 width: 300px;
 heigth: 300px;
-margin-left: auto;
-margin-right: auto;
+margin: auto;
+display: block;
 }
 
 body {
@@ -35,12 +35,6 @@ h1, h2 {
 hr {
   background-color: blue;
   border-color: blue;
-}
-
-img {
-  width: 60%;
-  margin: auto;
-  display: block;
 }
 
 h3 {
