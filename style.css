@@ -15,3 +15,9 @@ img, .fotito {
 width: 300px;
 heigth: 300px;
 }
+
+body {
+  background-image: url(wallpaperflare.com_wallpaper.jpg);
+  font-family: sans-serif;
+  padding: 20px;
+}
