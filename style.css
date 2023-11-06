@@ -44,3 +44,9 @@ h3 {
 h4 {
   color: yellow;
 }
+
+.geo, .miguel, .jose, .rick, .andrei {
+width: 150px;
+heigth: 150px;
+margin: auto;
+display: block;
